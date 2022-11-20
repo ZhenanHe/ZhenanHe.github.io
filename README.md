@@ -16,5 +16,5 @@ Z. He, G. G. Yen, and J. Lv, "Evolutionary Multiobjective Optimization With Robu
 Z. He, G. G. Yen, and Z. Yi, "Robust Multiobjective Optimization via Evolutionary Algorithms," in IEEE Transactions on Evolutionary Computation, vol. 23, no. 2, pp. 316-330, April 2019, doi: 10.1109/TEVC.2018.2859638
 
 ## For more information
-More info about me can be found in [CV](https://ZhenanHe.github.io/cv/).
+More info about me can be found in my [CV](https://ZhenanHe.github.io/cv/).
 
