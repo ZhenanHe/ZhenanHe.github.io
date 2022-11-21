@@ -83,11 +83,10 @@ author:
   name             : "Zhenan He"
   avatar           : "profile_hzn.jpg"
   bio              : "Professor, College of Computer Science, Sichuan University"
-  bio2             : "Whatever"
   location         : "Chengdu, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=hezhenan"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=458XmF4AAAAJ&hl=zh-CN&oi=ao"
   email            : "zhenan@scu.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/hezhenan"
   publons          : #"https://publons.com/researcher/3963266/ze-jiang/"
